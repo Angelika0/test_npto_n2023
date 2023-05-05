@@ -17,6 +17,14 @@ public class JavaApplication8 {
         // TODO code application logic here
         final int N = 10;
         int tab[] = new int[N];
+        for(int i =0; i<N; i++){
+            tab[i]=0;
+        }
+        int min = tab[0];
+        for(int i =0; i <N; i++){
+            if(tab[i]<min)min = tab[i];
+        }
+        System.out.println(min);
         
     }
     
