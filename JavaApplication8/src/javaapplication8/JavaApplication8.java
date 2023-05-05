@@ -25,13 +25,13 @@ public class JavaApplication8 {
             if(tab[i]<min)min = tab[i];
         }
         System.out.println(min);
-                System.out.println("hello");
-        
-                int max= tab[0];
-                for(int i =0; i<N; i++){
-                    if(max<N) max=tab[i];
-                }
-                System.out.println(max);
+//                System.out.println("hello");
+//        
+//                int max= tab[0];
+//                for(int i =0; i<N; i++){
+//                    if(max<N) max=tab[i];
+//                }
+//                System.out.println(max);
 
         
     }
