@@ -15,8 +15,9 @@ public class JavaApplication8 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        fianll int N = 10;
-        int [N];
+        final int N = 10;
+        int tab[] = new int[N];
+        
     }
     
 }
