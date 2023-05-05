@@ -25,6 +25,8 @@ public class JavaApplication8 {
             if(tab[i]<min)min = tab[i];
         }
         System.out.println(min);
+                System.out.println("hello");
+
         
     }
     
