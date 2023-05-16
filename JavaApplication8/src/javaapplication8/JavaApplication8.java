@@ -15,7 +15,7 @@ public class JavaApplication8 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        final int N = 10;
+        final int N = 15;
         int tab[] = new int[N];
         for(int i =0; i<N; i++){
             tab[i]=0;
